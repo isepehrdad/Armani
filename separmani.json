@@ -116,13 +116,13 @@
       "tag": "ایران🇮🇷 § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8645:abe9:72f:2155:55cb/128"
+        "2606:4700:110:88bb:ff9e:110b:70d1:d903/128"
       ],
-      "private_key": "sHWRm91zqLgx+DQOmydPktXUHHbyU+cwZ4tSgXjEQ1E=",
+      "private_key": "mJ5FKKtis5+7kLkmA0eBin9hKNai6mKWgaKdiqxBxEk=",
       "server": "162.159.195.130",
       "server_port": 1010,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "EkEJ",
+      "reserved": "XQ6D",
       "mtu": 1330,
       "fake_packets": "10-20",
       "fake_packets_size": "20-60",
@@ -134,13 +134,13 @@
       "detour": "ایران🇮🇷 § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8a85:4b7a:6364:6a66:f331/128"
+        "2606:4700:110:83ce:6428:df20:8d34:9619/128"
       ],
-      "private_key": "kOTrjQenLL75ike9Fg17CynZUCbP0dy0ZI3X/NFSc0g=",
+      "private_key": "SNkTwZRKZhm089w3h6uce6u48jSJ1AW3/Z762343uWc=",
       "server": "162.159.192.132",
       "server_port": 3476,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "L7/j",
+      "reserved": "geE8",
       "mtu": 1280
     },
     {
